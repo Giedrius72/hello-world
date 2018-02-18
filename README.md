@@ -1,2 +1,3 @@
 # hello-world
 new stone to take to put on the mountain
+I like to find stones on my way. Heavy they are or light they are...
